@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "wu-careers"
+AuthUserFile "/home/heybrian/.htpasswds/public_html/wu-careers/passwd"
+require valid-user

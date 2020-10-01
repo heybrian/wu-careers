@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 517.3 327" style="enable-background:new 0 0 517.3 327;" xml:space="preserve">
+	<defs>
+		<style type="text/css">
+			@font-face {
+				font-family: UniversLTStd-Light;
+				src: url('../fonts/UniversLTStd/UniversLTStd-Light.eot');
+				src: url('../fonts/UniversLTStd/UniversLTStd-Light.eot?#iefix') format('embedded-opentype'),
+			         url('../fonts/UniversLTStd/UniversLTStd-Light.otf');
+			}
+			.st0{fill:#FFFFFF;}
+			.st1{fill:none;}
+			.st2{clip-path:url(#SVGID_2_);fill:#FFFFFF;}
+			.st3{font-family: UniversLTStd-Light, Helvetica, Arial, sans-serif;}
+			.st4{font-size:100px;}
+			.st5{letter-spacing:5;}
+			.st6{display:none;}
+		</style>
+	</defs>
+<g id="culture_title">
+</g>
+<g id="Development_title">
+</g>
+<g id="Business_Title">
+	<g>
+		<path class="st0" d="M258.7,200.1c-26.7,0-51.8-10.4-70.7-29.3s-29.3-44-29.3-70.7s10.4-51.8,29.3-70.7s44-29.3,70.7-29.3
+			s51.8,10.4,70.7,29.3c18.9,18.9,29.3,44,29.3,70.7s-10.4,51.8-29.3,70.7C310.5,189.7,285.4,200.1,258.7,200.1z M258.7,2.5
+			c-26.1,0-50.6,10.1-69,28.6s-28.6,42.9-28.6,69s10.1,50.6,28.6,69c18.4,18.4,42.9,28.6,69,28.6s50.6-10.1,69-28.6
+			c18.4-18.4,28.6-42.9,28.6-69s-10.1-50.6-28.6-69C309.2,12.6,284.7,2.5,258.7,2.5z"/>
+		<path class="st0" d="M304.7,111.8l16.9-20.1c0,0,0.6-0.6,0.6,0.3c0,0.9,0,54.3,0,54.3c0,3.6-3.5,6.4-7.1,6.4H202.3
+			c-3.6,0-7.1-2.9-7.1-6.4c0,0,0-53.2,0-54.2c0-1,0.7,0,0.7,0l15.9,19.7c1.4,1.7,4.2,3,6.4,3h31.3l0.1,1.5c0.1,2.1,1.8,3.7,3.8,3.8
+			c1,2.5,3,4.3,5.3,4.3c2.3,0,4.2-1.7,5.3-4.3c2.1-0.1,3.7-1.8,3.8-3.8l0.1-1.5h30.4C300.5,114.8,303.2,113.5,304.7,111.8z
+			 M324.4,65.1v19l-21.9,25.7c-0.9,1-2.8,1.9-4.2,1.9h-30.1l0.3-3c0-0.1,0-0.2,0-0.2c0-2.2-1.8-4-4-4h-11.4c-2.2,0-4,1.8-4,4
+			c0,0.1,0,0.2,0,0.2l0.3,3h-31c-1.4,0-3.3-0.9-4.2-1.9l-21-25.6v-19c0-1.8,1.4-3.2,3.2-3.2h36.2v-1.6c0-0.4,0.3-0.6,0.6-0.6h1v-4.7
+			c0-0.7,0.6-1.3,1.3-1.3h3.7v-1.1c0-0.7,0.8-1.5,1.9-1.9c0,0,6.4-3.2,17.7-3.2c11.3,0,17.7,3.2,17.7,3.2c1,0.4,1.9,1.3,1.9,1.9v1.1
+			h3.7c0.7,0,1.3,0.6,1.3,1.3v4.7h1c0.4,0,0.6,0.3,0.6,0.6v1.6h36.2C323,61.9,324.4,63.3,324.4,65.1z M278.1,61.9v-1.6
+			c0-0.4,0.3-0.6,0.6-0.6h1v-3.3h-1.5v0.3c0,1.1-0.9,1.9-1.9,1.9c0,0-8.2-3.2-17.7-3.2c-9.5,0-17.7,3.2-17.7,3.2
+			c-1.1,0-1.9-0.9-1.9-1.9v-0.3h-1.4v3.3h1c0.4,0,0.6,0.3,0.6,0.6v1.6H278.1z M253.6,117h10.2c0.6,0,1.1-0.5,1.1-1.1l0.6-7.5
+			c0-0.6-0.5-1.1-1.1-1.1h-11.4c-0.6,0-1.1,0.5-1.1,1.1l0.6,7.5C252.5,116.5,253,117,253.6,117z"/>
+	</g>
+	<rect x="-0.6" y="250.9" class="st1" width="518.5" height="77.1"/>
+	<text transform="matrix(1 0 0 1 17.48 323.069)" class="st0 st3 st4 st5">BUSINESS</text>
+</g>
+<g id="Guides" class="st6">
+</g>
+</svg>
